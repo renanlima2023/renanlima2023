@@ -9,7 +9,7 @@ Certificações: Certificado em ITIL V4 (Information Technology Infrastructure L
 Estou constantemente buscando aprimorar minhas habilidades técnicas e expandir meu conhecimento em análise de dados, participando de cursos e  workshops.
 
 📫 Contato
-Você pode me contatar através do meu [LinkedIn] (https://www.linkedin.com/in/renan-slima/) para colaborações profissionais,
+Você pode me contatar através do meu LinkedIn (https://www.linkedin.com/in/renan-slima/) para colaborações profissionais,
 projetos interessantes ou simplesmente para trocar ideias sobre análise de dados e tecnologia.
 
 Vamos conectar e construir coisas incríveis juntos! 😊
