@@ -1,6 +1,5 @@
 Olá! 👋
-Me chamo Renan Lima, Profissional com mais de uma década de experiência na área de tecnologia, com foco atual em Análise de Dados.  Graduado em Análise e Desenvolvimento de Sistemas, com MBA em Gerenciamento de Projetos em TI. Possuo certificação ITIL V4 Foundation, refletindo meu compromisso com as melhores práticas em gerenciamento de serviços de TI. Atualmente, 
-estou focando meus estudos em Análise de Dados e Data Science, explorando o vasto mundo da interpretação de dados e das técnicas de machine learning.
+Sou um profissional com mais de 10 anos de experiência em suporte e infraestrutura de TI, agora focado em transformar dados em decisões estratégicas. Formado em Análise e Desenvolvimento de Sistemas e com MBA em Gerenciamento de Projetos, tenho habilidades em Python, SQL e Power BI. Embora ainda não tenha atuado diretamente como analista de dados, venho explorando essa área por meio de projetos e cursos, sempre buscando aprimorar minhas competências.
 
  <p> 🚀 Habilidades e Interesses</p>
 Linguagens de Programação: 
