@@ -18,7 +18,6 @@ ____
 
 <p>
    <img src="https://github.com/renanlima2023/certificacoes/blob/main/itil.png?raw=true" width="200" height="auto" style="margin-right: 10px;"/>
-   <img src="https://github.com/renanlima2023/certificacoes/blob/main/Badge%20-%20Estat%C3%ADstica%20para%20An%C3%A1lise%20de%20Dados.png?raw=true" width="120" height="auto" style="margin-right: 10px;"/>
    <img src="https://github.com/renanlima2023/certificacoes/blob/main/restart.png?raw=true" width="120" height="auto" style="margin-right: 10px;"/>
    <img src="https://github.com/renanlima2023/certificacoes/blob/main/SQL%20Server.png?raw=true" width="120" height="auto" style="margin-left: 10px;"/>
    <img src="https://github.com/renanlima2023/certificacoes/blob/main/Power.png?raw=true" width="120" height="auto" />
