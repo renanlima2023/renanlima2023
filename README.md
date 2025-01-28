@@ -3,7 +3,7 @@ Sou um profissional com mais de 10 anos de experiência em suporte e infraestrut
 ----
  ### <p> 🚀 Habilidades e Interesses</p>
 Linguagens de Programação: 
-<p>Python, SQL</p>
+<p>Python, SQL, Linguagem C</p>
 Ferramentas de Análise de Dados: 
 <p>Excel, Power BI, Mysql, Postgresql, SqlServer, Sqlite, Python</p>
 Nuvem:
