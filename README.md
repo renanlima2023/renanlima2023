@@ -1,5 +1,7 @@
 Olá! 👋
-Sou um profissional com mais de 10 anos de experiência em suporte e infraestrutura de TI, agora focado em transformar dados em decisões estratégicas. Formado em Análise e Desenvolvimento de Sistemas e com MBA em Gerenciamento de Projetos, tenho habilidades em Python, SQL e Power BI. Embora ainda não tenha atuado diretamente como analista de dados, venho explorando essa área por meio de projetos e cursos, sempre buscando aprimorar minhas competências.
+Apaixonado por transformar dados em insights estratégicos, aplico Power BI, SQL, Python e modelagem de dados para criar soluções que otimizam processos e apoiam a tomada de decisões.
+
+Tenho mais de 10 anos de experiência em TI e estou em transição para a área de Análise de Dados e Business Intelligence, onde já desenvolvi projetos com ETL, dashboards interativos e automação de relatórios. Meu foco está na visualização de dados, análise de métricas e storytelling com dados, garantindo que informações complexas sejam traduzidas em soluções práticas para as empresas.
 ----
  ### <p> 🚀 Habilidades e Interesses</p>
 Linguagens de Programação: 
