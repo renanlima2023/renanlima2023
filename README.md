@@ -1,7 +1,11 @@
-Olá! 👋
-Apaixonado por transformar dados em insights estratégicos, aplico Power BI, SQL, Python e modelagem de dados para criar soluções que otimizam processos e apoiam a tomada de decisões.
+👋 Olá!
+Sou Analista de Dados apaixonado por transformar informações em insights estratégicos que orientam decisões de negócio.
 
-Tenho mais de 10 anos de experiência em TI e estou em transição para a área de Análise de Dados e Business Intelligence, onde já desenvolvi projetos com ETL, dashboards interativos e automação de relatórios. Meu foco está na visualização de dados, análise de métricas e storytelling com dados, garantindo que informações complexas sejam traduzidas em soluções práticas para as empresas.
+Atuo com Power BI, SQL, Python e modelagem de dados, desenvolvendo soluções que vão desde pipelines de ETL até dashboards interativos e automação de relatórios. Meu foco é criar análises que tragam clareza para líderes e times, conectando dados a resultados concretos.
+
+Com mais de 10 anos de experiência em Tecnologia da Informação, trago uma visão sistêmica que me ajuda a enxergar além dos números: visualização de dados, análise de métricas e storytelling para transformar complexidade em soluções práticas e acionáveis.
+
+🚀 Sempre explorando novas formas de gerar valor com dados e aberto a compartilhar conhecimento, aprender continuamente e colaborar em projetos de BI e Análise de Dados.
 ----
  ### <p> 🚀 Habilidades e Interesses</p>
 Linguagens de Programação: 
